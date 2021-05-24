@@ -1,0 +1,9 @@
+---
+# 2020-03-10 Ansible Workshop RHEL with Tower
+
+autolicense:          true
+towerinstall:         true                  # Installs latest Tower
+workshop_type:        smart_mgmt
+rhel: rhel7
+code_server:          true
+...
